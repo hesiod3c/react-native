@@ -1,7 +1,6 @@
 {
-	"name": "reactnativeui",
+	"name": "@descco/react-native-ui",
 	"version": "0.0.1",
-	"private": true,
   "react-native": "source/index.js",
 	"scripts": {
 		"release": "release-it",
