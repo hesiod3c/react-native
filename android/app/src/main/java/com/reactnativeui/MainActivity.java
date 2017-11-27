@@ -1,4 +1,4 @@
-package com.uireactnative;
+package com.reactnativeui;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
      */
     @Override
     protected String getMainComponentName() {
-        return "uireactnative";
+        return "reactnativeui";
     }
 }

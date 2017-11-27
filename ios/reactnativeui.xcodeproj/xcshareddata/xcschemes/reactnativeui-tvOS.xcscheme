@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "uireactnative-tvOS.app"
-               BlueprintName = "uireactnative-tvOS"
-               ReferencedContainer = "container:uireactnative.xcodeproj">
+               BuildableName = "reactnativeui-tvOS.app"
+               BlueprintName = "reactnativeui-tvOS"
+               ReferencedContainer = "container:reactnativeui.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "uireactnative-tvOSTests.xctest"
-               BlueprintName = "uireactnative-tvOSTests"
-               ReferencedContainer = "container:uireactnative.xcodeproj">
+               BuildableName = "reactnativeui-tvOSTests.xctest"
+               BlueprintName = "reactnativeui-tvOSTests"
+               ReferencedContainer = "container:reactnativeui.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "uireactnative-tvOSTests.xctest"
-               BlueprintName = "uireactnative-tvOSTests"
-               ReferencedContainer = "container:uireactnative.xcodeproj">
+               BuildableName = "reactnativeui-tvOSTests.xctest"
+               BlueprintName = "reactnativeui-tvOSTests"
+               ReferencedContainer = "container:reactnativeui.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "uireactnative-tvOS.app"
-            BlueprintName = "uireactnative-tvOS"
-            ReferencedContainer = "container:uireactnative.xcodeproj">
+            BuildableName = "reactnativeui-tvOS.app"
+            BlueprintName = "reactnativeui-tvOS"
+            ReferencedContainer = "container:reactnativeui.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "uireactnative-tvOS.app"
-            BlueprintName = "uireactnative-tvOS"
-            ReferencedContainer = "container:uireactnative.xcodeproj">
+            BuildableName = "reactnativeui-tvOS.app"
+            BlueprintName = "reactnativeui-tvOS"
+            ReferencedContainer = "container:reactnativeui.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "uireactnative-tvOS.app"
-            BlueprintName = "uireactnative-tvOS"
-            ReferencedContainer = "container:uireactnative.xcodeproj">
+            BuildableName = "reactnativeui-tvOS.app"
+            BlueprintName = "reactnativeui-tvOS"
+            ReferencedContainer = "container:reactnativeui.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
