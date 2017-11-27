@@ -1,7 +1,7 @@
 {
 	"name": "@descco/react-native-ui",
-	"version": "0.0.1",
-  "react-native": "source/index.js",
+	"version": "1.0.0",
+	"react-native": "source/index.js",
 	"scripts": {
 		"release": "release-it",
 		"android": "react-native run-android",
@@ -12,13 +12,13 @@
 		"lint": "eslint source"
 	},
 	"config": {
-	"react-native-storybook-loader": {
-		"searchDir": [
-		"./source"
-		],
-		"pattern": "**/*.story.js",
-		"outputFile": "./storybook/story-loader.js"
-	}
+		"react-native-storybook-loader": {
+			"searchDir": [
+				"./source"
+			],
+			"pattern": "**/*.story.js",
+			"outputFile": "./storybook/story-loader.js"
+		}
 	},
 	"peerDependencies": {
 		"react": ">=16.0.0",
