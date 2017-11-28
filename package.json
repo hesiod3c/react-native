@@ -1,6 +1,7 @@
 {
 	"name": "@descco/react-native-ui",
-	"version": "1.0.0",
+  "version": "1.0.0",
+  "main": "source/index.js",
 	"react-native": "source/index.js",
 	"scripts": {
 		"release": "release-it",
