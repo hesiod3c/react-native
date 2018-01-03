@@ -3,6 +3,7 @@ import Container from './container';
 import Svg from './svg';
 import Button from './button';
 import Touchable from './touchable';
+import ThemeProvider from './theme-provider';
 
 module.exports = {
   Body,
@@ -10,4 +11,5 @@ module.exports = {
   Svg,
   Button,
   Touchable,
+  ThemeProvider,
 };
