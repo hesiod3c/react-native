@@ -2,14 +2,12 @@ import React from 'react';
 import { storiesOf } from '@storybook/react-native';
 import { View, Text } from 'react-native';
 import Svg from './index';
-import CenterView from '../../storybook/centerview';
 
 const styles = {
   flex: 0
 };
 
 storiesOf('Svg', module)
-  .addDecorator(getStory => <CenterView>{getStory()}</CenterView>)
   .add('Default', () => (
     <View>
       <Text style={styles}>Estrela</Text>
