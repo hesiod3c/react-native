@@ -20,15 +20,15 @@ storiesOf('Button', module)
       </Button>
     </View>
   ))
-  .add('Secundary', () => (
+  .add('Secondary', () => (
     <View>
-      <Button onPress={action('clicked-text')} styleType='secundary'>
+      <Button onPress={action('clicked-text')} styleType='secondary'>
         <Text>Texto</Text>
       </Button>
-      <Button onPress={action('clicked-text')} size='large' styleType='secundary'>
+      <Button onPress={action('clicked-text')} size='large' styleType='secondary'>
         <Text>Texto</Text>
       </Button>
-      <Button onPress={action('clicked-text')} block={false} styleType='secundary'>
+      <Button onPress={action('clicked-text')} block={false} styleType='secondary'>
         <Text>Texto</Text>
       </Button>
     </View>
@@ -38,7 +38,7 @@ storiesOf('Button', module)
       <Button onPress={action('clicked-text')} loading={true}>
         <Text>Texto</Text>
       </Button>
-      <Button onPress={action('clicked-text')} styleType='secundary' loading={true}>
+      <Button onPress={action('clicked-text')} styleType='secondary' loading={true}>
         <Text>Texto</Text>
       </Button>
       <Button onPress={action('clicked-text')} size='large' loading={true}>
